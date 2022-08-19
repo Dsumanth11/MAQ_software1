@@ -1,0 +1,141 @@
+.MAQ_NAV_BAR_Background
+{
+    background-color:red;
+}
+.Employee_id_heading{
+    color:#4D4D4D;
+    font-size:24px;
+    text-align:center;
+    top: 141px;
+    left: 847px;
+    /* width: 226px; */
+    height: 32px;
+    margin-top:15px;
+}
+.Summary_highlights{
+
+    /* UI Properties */
+    background: transparent url('images\person.png'); 
+}
+.person_image_properties{
+    height:272px;
+    width:272px;
+    border-width:3px;
+    border-color:#D8D8D8;
+    border-style:solid;
+}
+.Emp_first_name
+{
+    color:#4D4D4D;
+    top: 265px;
+    left: 445px;
+    width: 259px;
+    height: 32px;
+    font-size:24px;
+}
+.Emp_para{
+    color:#707070;
+    font-size:16px;
+    opacity: 1;
+}
+.Image1_properties{
+    width:384;
+    height:230px;
+}
+.skills_heading_maq{
+    color:#4D4D4D;
+    font-size:24px;
+}
+.row_bg{
+    color:#FAFAFA;
+}
+.containers_color{
+    background-color: #FFFFFF;
+    margin-bottom:30px;
+}
+.project_heading{
+    color:#4D4D4D;
+    font-size:24px;
+    font-weight:bold;
+    padding-left:10px;
+}
+li{
+    color:#707070;
+    font-size:19px;
+    margin-bottom:5px;
+    padding:0px;
+}
+.register_card_page{
+    border-style:solid;
+    border-color: #C4C4C4;
+    border-width:3px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    background-color:hsl(0, 6%, 94%);
+}
+.register_heading_register_page{
+    color:#686868;
+    font-size:20px;
+    margin-top:5px;
+    /* background-color:#d8d2d2; */
+    padding-left:10px;
+}
+.register_card_page1{
+    /* border-style:solid; */
+    /* border-color: #C4C4C4; */
+    border-width:3px;
+    border-top-width:0px;
+    background-color:hsl(0, 0%, 100%);
+}
+.white_color{
+    background-color:hsl(0, 0%, 100%) !important;
+    border-top:none !important;
+    border-radius: 0px !important; 
+}
+.inputBox{
+    margin-top:18px;
+    border-style:solid;
+    border-color:#D8D8D8;
+    border-width:2px;
+    width:90%;
+    /* margin-left:0%; */
+    height:50px;
+    padding-left:15px;
+}
+.Gender_heading{
+    color:#686868;
+}
+.skills_select_heading{
+    color:#686868;
+    font-size:18px;
+    font-weight:normal;
+    margin-top:10px;
+}
+.skills_width_setting{
+    width:83.5%;
+}
+.Check_box_area_of_interest{
+    margin-top:18px;
+    border-style:solid;
+    border-color:#D8D8D8;
+    border-width:2px;
+    width:90%;
+    /* margin-left:0%; */
+    height:220px;
+    padding-left:15px;
+}
+.button_reset_register{
+    background-color:red !important;
+    width:100px;
+    height:35px;
+    color:white !important;
+}
+.registerbtn{
+    margin-right:50px;
+    border-width:0px;
+    border-radius:10px;
+}
+.formerror
+{
+    color:red;
+}
